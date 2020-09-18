@@ -10,4 +10,4 @@
  <li><a href="https://www.npmjs.com/package/inquirer">inquirer</a></li>
 </ul>
 
-<p> Obs:  alterar "main" do arquivo package.json de acordo com o pacore que deseja executar <p>
+<p> Obs:  Alterar "main" do arquivo package.json de acordo com o pacore que deseja executar <p>
