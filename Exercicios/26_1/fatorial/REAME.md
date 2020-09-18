@@ -5,6 +5,6 @@
 <p>Exercícios de introdução ao NodeJs</p>
 
 <p>Necessário a instalação dos pacotes:</p>
-<ul>
+
  <li><a href="https://www.npmjs.com/package/inquirer">inquirer</a></li>
-</ul>
+
