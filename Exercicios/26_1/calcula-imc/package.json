@@ -9,7 +9,5 @@
   },
   "author": "Estela Martins <projetos.estelamartins@gmail.com>",
   "license": "ISC",
-  "dependencies": {
-    "readline-sync": "^1.4.10"
-  }
+  "dependencies": {}
 }
