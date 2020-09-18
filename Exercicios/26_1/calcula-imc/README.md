@@ -1,10 +1,10 @@
 <h2> Trybe </h2>
 
-<h3>Dloco 26 Dia 1</h3>
+<h3>Bloco 26 Dia 1</h3>
 
-<p>Exercicios de introdução ao NodeJs</p>
+<p>Exercícios de introdução ao NodeJs</p>
 
-<p>Necessario a instalação dos pacotes:</p>
+<p>Necessário a instalação dos pacotes:</p>
 <ul>
  <li><a href="https://www.npmjs.com/package/readline-sync">readline-sync</a></li>
  <li><a href="https://www.npmjs.com/package/inquirer">inquirer</a></li>
