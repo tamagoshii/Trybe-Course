@@ -49,3 +49,5 @@ async function calculo () {
 }
 
 calculo();
+
+console.log("Testando GIT");
