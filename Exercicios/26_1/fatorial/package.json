@@ -1,0 +1,13 @@
+{
+  "name": "fatorial",
+  "version": "1.0.0",
+  "description": "Script que utiliza recursão para realizar o fatorial de um número.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "Estela Martins <projetos.estelamartins@gmail.com>",
+  "license": "ISC",
+  "dependencies": {}
+}
